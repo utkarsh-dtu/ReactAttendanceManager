@@ -1,0 +1,63 @@
+.inputContainer {
+  display: block;
+  width: 90%;
+  margin: 10px;
+}
+
+.submitButton {
+  display: block;
+  background-color: rgb(136, 179, 218);
+  margin: 10px;
+  border-radius: 10px;
+  left: 40%;
+}
+.submitButton:hover {
+  background-color: rgb(47, 0, 255);
+  color: white;
+  transition-duration: 10ms;
+}
+
+.myForm {
+  margin: auto;
+  width: 30%;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.timeButton {
+  display: block;
+  margin: 10px;
+}
+.container {
+  display: block;
+  margin: auto;
+}
+
+.wrapper {
+  border: 1px solid black;
+  border-radius: 12px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.rightBar {
+  display: block;
+  width: 40%;
+  border: 1px solid black;
+  left: 70px;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 15px;
+}
+.checkoutButton {
+  margin: 5px;
+  border-radius: 5px;
+  background-color: rgb(203, 75, 75);
+  color: white;
+  font-weight: bold;
+  padding: 8px;
+}
+.checkoutButton:hover {
+  background-color: rgb(227, 229, 244);
+  color: black;
+}
